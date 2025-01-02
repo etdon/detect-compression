@@ -45,8 +45,8 @@ def handle_bytes(bytes) -> tuple[str, ...]:
 
 def handle_file(file_path) -> str:
     magic = []
-    with open(file_path, "rb") as file:
-        magic = file.read(8)
+    with open(file_path, "rb") as bufferedReader:
+        magic = bufferedReader.read(8)
     return handle_bytes(magic)
 
 def handle_hex(hex) -> str:
