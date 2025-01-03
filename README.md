@@ -1,5 +1,5 @@
 <p align="center">  
-    <img src="https://dummyimage.com/1012x253/363636/ffffff.png&text=detect-compression" width=1012 height=253>    
+    <img src="https://tools.etdon.com/placeholder-image/generate?width=1012&height=253&background-color=393E41,1E2019,D3D0CB,1E2019&text=detect-compression&text-color=FFFFFF" width=1012 height=253>    
 </p>
 
 ## 🔰 Introduction
